@@ -6,6 +6,8 @@ name = input("Hello! What is your name?\n")
 number = random.randint(1, 20)
 print(f"Well, {name}, I am thinking of a number between 1 and 20.")
 
+unused_variable = "please delete me"
+
 while guesses_made < 6:
     guess = int(input("Take a guess: "))
     guesses_made += 1
