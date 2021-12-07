@@ -1,3 +1,5 @@
+[![Lint Code Base](https://github.com/Suresh051/sonarqube-scan-action/actions/workflows/super-linter.yml/badge.svg?branch=master)](https://github.com/Suresh051/sonarqube-scan-action/actions/workflows/super-linter.yml)
+
 # Scan your code with SonarQube [![QA](https://github.com/SonarSource/sonarqube-scan-action/actions/workflows/qa.yml/badge.svg)](https://github.com/SonarSource/sonarqube-scan-action/actions/workflows/qa.yml)
 
 Using this GitHub Action, scan your code with [SonarQube](https://www.sonarqube.org/) to detects Bugs, Vulnerabilities and Code Smells in up to 27 programming languages!
