@@ -52,4 +52,5 @@ jobs:
         env:
           VALIDATE_ALL_CODEBASE: false
           DEFAULT_BRANCH: master
+          OUTPUT_FOLDER: Reports
           OUTPUT_DETAILS: detailed
