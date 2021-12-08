@@ -10,7 +10,7 @@ jobs:
   build:
 
     # run build on latest ubuntu
-    runs-on: myserver
+    runs-on: windows
 
     steps:
     # this will check out the current branch (https://github.com/actions/checkout#Push-a-commit-using-the-built-in-token)
